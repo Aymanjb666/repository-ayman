@@ -10,3 +10,6 @@ The notebook focuses on:
 Data preprocessing steps.
 Exploratory Data Analysis (EDA).
 Key visualizations and findings.
+
+Link Tableau:
+https://public.tableau.com/app/profile/ayman.baswedan/viz/VisualisasiMilestone1/DashboardM1Ayman
